@@ -1,0 +1,19 @@
+{
+    "Menu" : [
+        {
+            "makan_siang" : [{
+                "makanan" : "Sayur Lodeh",
+                "minuman" : "Teh",
+                "buah"    : "Semangka"
+            }]
+            
+        },
+        {
+            "makan_malam" : [{
+                "makanan" : "Soup Ayam",
+                "minuman" : "Teh Hangat",
+                "buah"    : "Melon"
+            }]
+        }
+    ]
+}
